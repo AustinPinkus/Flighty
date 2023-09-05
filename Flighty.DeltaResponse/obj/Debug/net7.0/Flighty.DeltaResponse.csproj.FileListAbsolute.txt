@@ -1,0 +1,11 @@
+C:\src\AustinPinkus\Flighty\Flighty.DeltaResponse\bin\Debug\net7.0\Flighty.DeltaResponse.deps.json
+C:\src\AustinPinkus\Flighty\Flighty.DeltaResponse\bin\Debug\net7.0\Flighty.DeltaResponse.dll
+C:\src\AustinPinkus\Flighty\Flighty.DeltaResponse\bin\Debug\net7.0\Flighty.DeltaResponse.pdb
+C:\src\AustinPinkus\Flighty\Flighty.DeltaResponse\obj\Debug\net7.0\Flighty.DeltaResponse.GeneratedMSBuildEditorConfig.editorconfig
+C:\src\AustinPinkus\Flighty\Flighty.DeltaResponse\obj\Debug\net7.0\Flighty.DeltaResponse.AssemblyInfoInputs.cache
+C:\src\AustinPinkus\Flighty\Flighty.DeltaResponse\obj\Debug\net7.0\Flighty.DeltaResponse.AssemblyInfo.cs
+C:\src\AustinPinkus\Flighty\Flighty.DeltaResponse\obj\Debug\net7.0\Flighty.DeltaResponse.csproj.CoreCompileInputs.cache
+C:\src\AustinPinkus\Flighty\Flighty.DeltaResponse\obj\Debug\net7.0\Flighty.DeltaResponse.dll
+C:\src\AustinPinkus\Flighty\Flighty.DeltaResponse\obj\Debug\net7.0\refint\Flighty.DeltaResponse.dll
+C:\src\AustinPinkus\Flighty\Flighty.DeltaResponse\obj\Debug\net7.0\Flighty.DeltaResponse.pdb
+C:\src\AustinPinkus\Flighty\Flighty.DeltaResponse\obj\Debug\net7.0\ref\Flighty.DeltaResponse.dll

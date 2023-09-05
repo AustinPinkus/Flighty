@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Flighty.DeltaResponse/1.0.0": {
+        "runtime": {
+          "Flighty.DeltaResponse.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Flighty.DeltaResponse/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

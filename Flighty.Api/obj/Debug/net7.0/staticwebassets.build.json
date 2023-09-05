@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "eoLDn5fgpIG6wnYl2vyoqcKOkQs9vFg2cqNXbUxa+Qo=",
+  "Source": "Flighty.Api",
+  "BasePath": "_content/Flighty.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

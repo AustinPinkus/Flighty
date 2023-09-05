@@ -1,0 +1,11 @@
+C:\src\AustinPinkus\Flighty\Flighty.Common\bin\Debug\net7.0\Flighty.Common.deps.json
+C:\src\AustinPinkus\Flighty\Flighty.Common\bin\Debug\net7.0\Flighty.Common.dll
+C:\src\AustinPinkus\Flighty\Flighty.Common\bin\Debug\net7.0\Flighty.Common.pdb
+C:\src\AustinPinkus\Flighty\Flighty.Common\obj\Debug\net7.0\Flighty.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\src\AustinPinkus\Flighty\Flighty.Common\obj\Debug\net7.0\Flighty.Common.AssemblyInfoInputs.cache
+C:\src\AustinPinkus\Flighty\Flighty.Common\obj\Debug\net7.0\Flighty.Common.AssemblyInfo.cs
+C:\src\AustinPinkus\Flighty\Flighty.Common\obj\Debug\net7.0\Flighty.Common.csproj.CoreCompileInputs.cache
+C:\src\AustinPinkus\Flighty\Flighty.Common\obj\Debug\net7.0\Flighty.Common.dll
+C:\src\AustinPinkus\Flighty\Flighty.Common\obj\Debug\net7.0\refint\Flighty.Common.dll
+C:\src\AustinPinkus\Flighty\Flighty.Common\obj\Debug\net7.0\Flighty.Common.pdb
+C:\src\AustinPinkus\Flighty\Flighty.Common\obj\Debug\net7.0\ref\Flighty.Common.dll
